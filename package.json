@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "@nuxtjs/proxy": "^2.1.0",
+    "@vueform/multiselect": "^2.5.8",
+    "apexcharts": "3.35.0",
+    "axios": "^1.2.2",
+    "longdo-map-vue": "^2.1.0",
+    "sass": "1.56.1",
+    "sweetalert2": "^11.6.16",
+    "vue3-apexcharts": "1.4.1",
+    "vue3-easy-data-table": "^1.5.25",
+    "vuetify": "3.0.2"
+  }
+}
