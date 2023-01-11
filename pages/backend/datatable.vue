@@ -21,9 +21,9 @@ useHead({
 <template>
 	<ComponentDatatable />
 	<br><br>
-	<ComponentDatatable2 />
+	<!-- <ComponentDatatable2 />
 	<br><br>
-	<ComponentDatatable3 />
+	<ComponentDatatable3 /> -->
 </template>
 
 <style>
